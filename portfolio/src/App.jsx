@@ -1,12 +1,13 @@
 import React from 'react'
 import HeroSection from './pages/HeroSection'
-import Socials from './components/Hero Section/Socials'
+import Navbar from './components/Navbar'
+
 const App = () => {
   return (
     <div className='app'>
-      {/* <HeroSection/> */}
-      <Socials/>
-      
+      {/* <HeroSection /> */}
+      <Navbar />
+
     </div>
   )
 }
