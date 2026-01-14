@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div className='app'>
       {/* <HeroSection /> */}
-      <Navbar />
+      
 
     </div>
   )
